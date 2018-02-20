@@ -2,11 +2,10 @@
 
 @font-face {
   font-family: "untitled-font-3";
-  src:url("http://mylistingtemplate.com/st1/icon-font/fonts/untitled-font-3.eot");
-  src:url("http://mylistingtemplate.com/st1/icon-font/fonts/untitled-font-3.eot?#iefix") format("embedded-opentype"),
-    url("http://mylistingtemplate.com/st1/icon-font/fonts/untitled-font-3.woff") format("woff"),
-    url("http://mylistingtemplate.com/st1/icon-font/fonts/untitled-font-3.ttf") format("truetype"),
-    url("http://mylistingtemplate.com/st1/icon-font/fonts/untitled-font-3.svg#untitled-font-3") format("svg");
+  src:url("https://github.com/BRetroG/Template2/blob/master/untitled-font-3.eot");
+  src:url("https://github.com/BRetroG/Template2/blob/master/untitled-font-3.eot?#iefix") format("embedded-opentype"),
+    url("https://github.com/BRetroG/Template2/blob/master/untitled-font-3.woff") format("woff"),
+    url("https://github.com/BRetroG/Template2/blob/master/untitled-font-3.ttf") format("truetype"),
   font-weight: normal;
   font-style: normal;
 
